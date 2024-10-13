@@ -1,1 +1,1 @@
-# LEGAL-UQA
+# urdu-rag-law-bot
